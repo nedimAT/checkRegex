@@ -1,0 +1,6 @@
+.regexDoesNotMatch {
+    border: 3px solid red !important;
+}
+.regexDoesMatch {
+    border: 3px solid green !important;
+}

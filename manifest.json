@@ -1,10 +1,11 @@
   {
-      "name": "Check Branchname",
+      "manifest_version": 2,
+      "name": "RSG Check Branchname",
       "version": "1.0",
       "permissions": ["activeTab", "declarativeContent", "storage"],
       "description": "check if the Branchname matches a RegEx; ",
       "background": {
-          "scripts": ["background.js"],
+          "scripts": ["jquery-3.4.1.js", "background.js"],
           "persistent": false
       },
       "page_action": {
@@ -23,9 +24,10 @@
       },
       "content_scripts": [{
           "matches": ["https://scm.teamspace.local/plugins/servlet/create-branch*"],
-          "css": ["styles.css"],
+          "css": ["styles.css", "popup.css"],
           "run_at": "document_idle",
-          "js": ["checkRegex.js"]
+          "js": ["jquery-3.4.1.js", "checkRegex.js"]
       }],
-      "manifest_version": 2
+      "web_accessible_resources": [
+        "insertHTML.html"]
   }

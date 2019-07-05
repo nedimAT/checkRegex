@@ -1,0 +1,482 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"SMA",
+				"SMARTWP"
+			],
+			[
+				"k",
+				"kundennummer"
+			],
+			[
+				"fet",
+				"fetcher\tlocal var"
+			],
+			[
+				"g",
+				"gadse_holder"
+			],
+			[
+				"Qt",
+				"QtGui"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"sess",
+				"sessionCreateUrl"
+			],
+			[
+				"con",
+				"console\tvar"
+			],
+			[
+				"Dokum",
+				"dokumentenwartung"
+			],
+			[
+				"ng-cl",
+				"ng-click\tAngularJS"
+			],
+			[
+				"br",
+				"branchnameField"
+			],
+			[
+				"b",
+				"branchnameField"
+			],
+			[
+				"fonts",
+				"fonts"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"vbsc",
+				"Build With: VBScript - Run with WScript"
+			],
+			[
+				"vb",
+				"Set Syntax: VBScript"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"comp",
+				"Compare selections"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"fileb",
+				"Browse Mode: FileBrowser Top Left, Outline Bottom Left"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"outlin",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"out",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"outline",
+				"Browse Mode: FileBrowser Top Right, Outline Bottom Right"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"notes",
+				"Set Syntax: Notes"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 137.0,
+		"history":
+		[
+			"exit",
+			"compile",
+			"start",
+			"exit",
+			"man",
+			"help",
+			"ll",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projekte/workspaces/chromeExtCheckBranchname"
+	],
+	"file_history":
+	[
+		"/C/Projekte/workspaces/chromeExtCheckBranchname/chromeExtCheckBranchname.sublime-project",
+		"/C/Users/lrcl041/Downloads/script_output_20190703125828.log",
+		"/C/Projekte/workspaces/depotreporting/depotreporting-ui/depotreporting-ui-web/gulpfile.js",
+		"/C/Projekte/data/conf/configuration.properties",
+		"/C/Users/lrcl041/AppData/Local/Temp/notesA7C156/5003355.json",
+		"/C/Users/lrcl041/AppData/Roaming/Postman/logs/main.log",
+		"/C/Projekte/workspaces/depot/.git/COMMIT_EDITMSG",
+		"/C/Projekte/workspaces/depot/.git/rebase-merge/git-rebase-todo",
+		"/C/Projekte/scripts.js",
+		"/C/Projekte/index.html",
+		"/C/Projekte/data/conf/app-configuration-00.json",
+		"/C/Entwicklung/JBoss/eap/standalone/configuration/standalone.xml",
+		"/C/Projekte/workspaces/depotreporting/pom.xml",
+		"/C/Entwicklung/SMART Desktop/spa-apps.json",
+		"/C/Projekte/testspaces/portfolio/testdata/rbgooe-atz/PTWPB-624-anlegerprofilkunde_suche.csv",
+		"/C/Entwicklung/server_configs/smart_portfolio/conf/configuration.properties",
+		"/C/Entwicklung/JBoss/eap_714/standalone/configuration/standalone.xml",
+		"/C/Projekte/data/conf/configuration_.properties",
+		"/C/Users/lrcl041/Downloads/FME_BaumdatenBearbeitet_OGD_20190205 (1).csv",
+		"/C/Projekte/testspaces/portfolio/resources/rbgooe-ftz/test-environment.properties",
+		"/C/Projekte/testspaces/portfolio/smart_desktop.vbs",
+		"/C/Projekte/testspaces/portfolio/testdata/rbgooe-atz/PTWPB-624-anlegerprofilkunde_suche",
+		"/C/Users/lrcl041/AppData/Local/Temp/SDKSetup_7.0.6918.0.log",
+		"/C/Users/lrcl041/Downloads/GRMSDK/Setup/SDKSetup.exe.config",
+		"/C/Entwicklung/temp/smart_desktop.vbs",
+		"/C/Projekte/testspaces/portfolio/smart_desktop_into_Spa.vbs",
+		"/C/Program Files/Sublime Text 3/Packages/Vintage/Default.sublime-keymap",
+		"/C/Program Files/Sublime Text 3/Packages/Vintage/vintage_commands.py",
+		"/C/Users/lrcl041/AppData/Local/Temp/7zO49B0292F/Default (Windows).sublime-keymap",
+		"/C/Users/lrcl041/AppData/Local/Temp/7zE49BC164F/Default.sublime-keymap",
+		"/C/Users/lrcl041/AppData/Local/Temp/7zE49BEDB6F/Vintage.sublime-commands",
+		"/C/Users/lrcl041/AppData/Local/Temp/7zE49BB156F/vintage_commands.py",
+		"/C/Users/lrcl041/AppData/Local/Temp/7zE49B4AE7F/vintage_motions.py",
+		"/C/Users/lrcl041/AppData/Local/Temp/7zE49BEB98F/Default (Windows).sublime-keymap",
+		"/C/Users/lrcl041/AppData/Local/Temp/7zE49B5A99F/Default.sublime-keymap",
+		"/C/Projekte/testspaces/portfolio/resources/rbgooe-atz/test-environment.properties",
+		"/C/Projekte/testspaces/portfolio/resources/rbgooe-atz/test-user.properties",
+		"/C/Projekte/workspaces/svgFont_viewer/main.js",
+		"/C/Users/lrcl041/AppData/Local/Temp/notesA7C156/configuration.properties",
+		"/C/Entwicklung/SMART Desktop/RACON.Desktop.Funktionen.Module.dll.config",
+		"/C/Entwicklung/server_configs/smart_portfolio/conf/app-configuration-00.json",
+		"/C/Users/lrcl041/Downloads/Anlagevorschlag_Dauerauftragsliste.xml",
+		"/C/Entwicklung/server_configs/smart_portfolio/conf/ptwpb-609.xml",
+		"/C/Users/lrcl041/Downloads/Beratungsprotokoll_Dauerauftragsliste.xml",
+		"/C/Users/lrcl041/Downloads/Beratungsprotokoll_Dauerauftragsliste (1).xml",
+		"/C/Program Files (x86)/Raiffeisen/SMART Desktop/RACON.Desktop.Funktionen.Module.dll.config",
+		"/C/Betrieb/Logs/SMART Desktop Interop/Interop.log",
+		"/C/Betrieb/Logs/SMART Desktop/LogGateway.log",
+		"/C/Betrieb/Logs/SMART Desktop/SMARTDesktop.log",
+		"/C/Users/lrcl041/Downloads/Beispielaufruf (1).xml",
+		"/C/Users/lrcl041/Downloads/viewer.html",
+		"/C/Users/lrcl041/Downloads/index.html",
+		"/C/Projekte/workspaces/svgFont_viewer/styles.css",
+		"//GRZNAS1/UserData$/lrcl041/Desktop/response.json",
+		"/C/Projekte/workspaces/portfolio/.idea/compiler.xml",
+		"/C/Projekte/workspaces/portfolio/.idea/encodings.xml",
+		"/C/Entwicklung/Gradle/gradle.properties",
+		"/C/Projekte/workspaces/portfolio/.idea/misc.xml",
+		"/C/Projekte/workspaces/portfolio/.idea/vcs.xml",
+		"/C/Projekte/workspaces/portfolio/.idea/workspace.xml",
+		"/C/Users/lrcl041/.IntelliJIdea2019.1/config/idea.key",
+		"/C/Users/lrcl041/Downloads/Beispielaufruf.xml",
+		"/C/Users/lrcl041/.IntelliJIdea2019.1/config/options/javaeeAppServers.xml",
+		"/C/Entwicklung/JetBrains/IntelliJ IDEA 2019.1/bin/idea.bat",
+		"/C/Entwicklung/JetBrains/IntelliJ IDEA 2019.1/bin/idea.exe.vmoptions",
+		"/C/Users/lrcl041/.IntelliJIdea2019.1/config/idea64.exe.vmoptions",
+		"/C/Users/lrcl041/.IntelliJIdea2019.1/config/options/jdk.table.xml",
+		"/C/Users/lrcl041/.IntelliJIdea2019.1/config/options/other.xml",
+		"/C/Projekte/workspaces/portfolio/.idea/arquillianContainers.xml",
+		"/C/Projekte/workspaces/linksaver/model/single_data_object.py",
+		"/C/Entwicklung/JBoss/eap/standalone/log/server.log",
+		"/C/Entwicklung/server_configs/smart_portfolio/conf/message-configuration.json",
+		"/C/Entwicklung/server_configs/smart_portfolio/conf/message-configuration-de.json",
+		"/C/Entwicklung/JBoss/eap/standalone/tmp/vfs/temp/temp32eb0a69ce30a027/portfolio-ui-war-0.0.3-SNAPSHOT.war-7157a2d1ca1f5e2e/WEB-INF/config/app-configuration-00.json",
+		"/C/Projekte/data/conf/configuration_ (2).properties",
+		"/C/Projekte/workspaces/linksaver/README.md",
+		"/C/Users/lrcl041/.npmrc",
+		"/C/Entwicklung/JBoss/eap/standalone/configuration/standalone-full.xml",
+		"/C/Users/lrcl041/AppData/Local/Temp/notesA7C156/app-configuration-00.json",
+		"/C/Entwicklung/Jmeter/README.md",
+		"/C/Entwicklung/server_configs/was9/smart_portfolio/logs/smart-portfolio.log",
+		"/C/Entwicklung/server_configs/was9/smart_portfolio/logs/smart-portfolio.log.2019-05-10",
+		"/C/Entwicklung/server_configs/was9/smart_portfolio/logs/smart-portfolio.log.2019-05-09",
+		"/C/Entwicklung/cmder/config/config.lua",
+		"/C/Projekte/workspaces/allgemein/.git/COMMIT_EDITMSG",
+		"/C/Projekte/workspaces/dlmanager/.git/COMMIT_EDITMSG",
+		"/C/Projekte/workspaces/dlmanager/.git/config",
+		"/C/Users/lrcl041/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/lrcl041/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Projekte/workspaces/electron-quick-start/README.md",
+		"/C/Entwicklung/nodejs/node_modules/npm/.data/npm-cache/_logs/2019-05-15T10_37_38_242Z-debug.log",
+		"/C/Projekte/workspaces/allgemein/ReadMe.md",
+		"/C/Users/lrcl041/AppData/Local/Temp/notesA7C156/rci-ticket.txt",
+		"/C/Projekte/workspaces/SprintDashboard/projectPTWPB.json",
+		"/C/Entwicklung/RCI/ticket.xml",
+		"/C/Entwicklung/JBoss/eap/standalone/log/audit.log",
+		"/C/Projekte/workspaces/SprintDashboard/enviroment.properties",
+		"/C/Projekte/workspaces/depotreporting/.git/COMMIT_EDITMSG",
+		"/C/Entwicklung/JBoss/eap/standalone/log/server.log.2019-04-30",
+		"/C/Users/Public/Documents/Neues Textdokument.txt",
+		"/C/Users/lrcl041/AppData/Local/Temp/notesA7C156/message-configuration-de.json",
+		"/C/Users/lrcl041/AppData/Roaming/Sublime Text 3/Packages/Compare Side-By-Side/SBSCompare.sublime-settings",
+		"/C/Entwicklung/JBoss/eap/standalone/configuration/logging.properties",
+		"/C/Projekte/workspaces/portfolio/portfolio-ui/portfolio-ui-war/target/portfolio-ui-war-0.0.3-SNAPSHOT/WEB-INF/web.xml",
+		"/C/Projekte/workspaces/dokumentenwartung/dokumentenwartung-ui/dokumentenwartung-ui-war/target/dokumentenwartung-ui-war/WEB-INF/web.xml",
+		"/C/Projekte/workspaces/portfolio/.gitignore",
+		"/C/Projekte/workspaces/LinkSafe/data.json",
+		"/C/Projekte/workspaces/dokumentenwartung/dokumentenwartung-ui/dokumentenwartung-ui-war/src/main/webapp/WEB-INF/jboss-web.xml",
+		"/C/Projekte/workspaces/dokumentenwartung/.git/config",
+		"/C/Projekte/workspaces/temp/findDuplicate.py",
+		"/C/Projekte/workspaces/temp/2.csv",
+		"/C/Projekte/workspaces/temp/LRCUHSA.csv",
+		"/C/Projekte/workspaces/dokumentenwartung/pom.xml",
+		"/C/Projekte/workspaces/dokumentenwartung/dokumentenwartung-business/dokumentenwartung-business-impl/pom.xml",
+		"/C/Projekte/workspaces/temp/gen_jpeg.py",
+		"/C/Projekte/workspaces/dokumentenwartung/dokumentenwartung-ui/pom.xml",
+		"/C/Projekte/workspaces/dokumentenwartung/dokumentenwartung-business/pom.xml",
+		"/C/Projekte/workspaces/smart-portfolio/smart-portfolio-core/src/main/java/at/rsg/wp/wpf/services/depot/DepotkundeService.java",
+		"/C/Projekte/workspaces/portfolio_first_attempt-FAILED/pom.xml",
+		"/C/Projekte/workspaces/portfolio_first_attempt-FAILED/portfolio-ui/pom.xml",
+		"/C/Projekte/workspaces/portfolio_first_attempt-FAILED/portfolio-ui/portfolio-ui-services/pom.xml",
+		"/C/Projekte/workspaces/portfolio_first_attempt-FAILED/portfolio-ui/portfolio-ui-services/src/main/java/at/rsg/wp/portfolio/impl/dokument/PdfCreator.java",
+		"/C/Temp/data-exchange.service.js",
+		"/C/Projekte/data/DOKW/conf/configuration.properties",
+		"/C/Projekte/workspaces/portfolio/portfolio-business/pom.xml",
+		"/C/Projekte/workspaces/smart-portfolio/pom.xml",
+		"/C/Projekte/workspaces/portfolio/pom.xml",
+		"/C/Projekte/workspaces/portfolio/portfolio-ui/pom.xml"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Projekte\\workspaces\\chromeExtCheckBranchname"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 121.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
